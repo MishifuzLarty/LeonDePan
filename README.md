@@ -1,8 +1,8 @@
-### Hi there, I'm LeonDePan! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"></h2>
+### Hi there, I'm [LeonDePan][website] ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"></h2>
 [![Twitter Badge](https://img.shields.io/badge/-@SBlackDoor-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=twitter)][twitter] 
 [![Youtube Badge](https://img.shields.io/badge/-LeonDePan-c14438?style=flat-square&logo=youtube&logoColor=white)][youtube]
 <!--
-**LeonDePan/LeonDePan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**LeonDePan/LeonDePan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
